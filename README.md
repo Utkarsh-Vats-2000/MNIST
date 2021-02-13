@@ -1,5 +1,5 @@
 # MNIST Using Deep Neural Networks
-## DATASET
+## DATASETS
 ### MNIST Public Dataset from Kaggle
 ## MODULES
 ### numpy
